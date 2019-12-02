@@ -12,4 +12,5 @@ of subregular functions characteristic of natural language reduplication. We fin
 the simulations we run, attention is a necessary and sufficient mechanism for learning generalizable reduplication. We examine attention alignment to connect RNN computation to a class of 2-way transducers.
 
 [Download paper here](http://academicpages.github.io/files/SCiL2020_Redup_Paper.pdf)
+
 [Code available here](https://github.com/MaxAndrewNelson/Neural-Reduplication)
