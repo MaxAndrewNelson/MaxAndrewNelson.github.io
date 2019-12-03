@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MayerAndNelson-2020-Phonotactics
 excerpt: 'Connor Mayer and Max Nelson'
 date: 2020-01-02
-venue: 'Proceedings of the Society for Computation in Linguistics, 2020'
+venue: 'Proceedings of the Society for Computation in Linguistics'
 paperurl: 'http://academicpages.github.io/files/Scil_2020_Phonotac_paper.pdf'
 ---
 Connor Mayer and Max Nelson   

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/NelsonEtAl-2020-Reduplication
 excerpt: 'Max Nelson'
 date: 2019-03-02
-venue: 'Proceedings of the Society for Computation in Linguistics, 2019'
+venue: 'Proceedings of the Society for Computation in Linguistics'
 paperurl: 'http://academicpages.github.io/files/SCiL2019_Paper.pdf'
 ---
 Max Nelson     
