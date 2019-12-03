@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/NelsonEtAl-2020-Reduplication
 excerpt: 'Max Nelson, Hossep Dolatian, Jonathan Rawski, and Brandon Prickett'
 date: 2020-03-02
-venue: 'Proceedings of the Society for Computation in Linguistics'
+venue: 'Proceedings of the Society for Computation in Linguistics, 2020'
 paperurl: 'http://academicpages.github.io/files/SCiL2020_Redup_Paper.pdf'
 ---
 Max Nelson, Hossep Dolatian, Jonathan Rawski, and Brandon Prickett    
