@@ -13,8 +13,8 @@ Education
 ======
 * B.A. in Cognitive Science, Indiana University, 2015
 * B.A. in French, Indiana University, 2015
-* M.S in Computer Science, University of Massachusetts Amherst, (in progress)
-* Ph.D in Linguistics, University of Massachusetts Amherst, (in progress)
+* M.S. in Computer Science, University of Massachusetts Amherst, (in progress)
+* Ph.D. in Linguistics, University of Massachusetts Amherst, (in progress)
 
 Publications
 ======
