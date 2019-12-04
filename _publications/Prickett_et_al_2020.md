@@ -6,6 +6,8 @@ excerpt: 'Brandon Prickett, Kaden Holladay, Shay Hucklebridge, Max Nelson,Rajesh
 
 date: 2020-01-01
 venue: 'The Proceedings of the 55th annual meeting of the Chicago Linguistic Society'
-paperurl: 'http://academicpages.github.io/files/Hidden_Syntax_CLS.pdf'
+paperurl: 'http://maxandrewnelson.github.io/files/Hidden_Syntax_CLS.pdf'
 ---
 Brandon Prickett, Kaden Holladay, Shay Hucklebridge, Max Nelson,Rajesh Bhatt, Gaja Jarosz, Kyle Johnson, Aleksei Nazarov, and Joe Pater
+
+[Download paper here](http://maxandrewnelson.github.io/files/Hidden_Syntax_CLS.pdf)
