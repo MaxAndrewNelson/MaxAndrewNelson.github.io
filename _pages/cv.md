@@ -30,10 +30,15 @@ Talks
 
 Work experience
 ======
-CV in progress
+* Fall 2018: Research Assistant
+	* Advisor: Gaja Jarosz
+	* Wrote Python scripts implementing and testing algorithms for learningphonological hidden structure. Wrote Java script for plotting learningcurves to be included in a publicly available Java application implement-ing phonological learning algorithms.
 
   
 Skills
 ======
 CV in progress
+
+
+[Downloadable CV](http://maxandrewnelson.github.io/files/Nelson_2019_CV.pdf)
 
