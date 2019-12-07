@@ -32,7 +32,14 @@ Work experience
 ======
 * Fall 2018: Research Assistant
 	* Advisor: Gaja Jarosz
-	* Wrote Python scripts implementing and testing algorithms for learningphonological hidden structure. Wrote Java script for plotting learningcurves to be included in a publicly available Java application implement-ing phonological learning algorithms.
+	* Wrote Python scripts implementing and testing algorithms for learningphonological hidden structure
+	* Wrote Java script for plotting learningcurves to be included in a publicly available Java application implement-ing phonological learning algorithms
+	
+* Fall 2018: Editor of The Proceedings of the Society for Computation in Linguistics 2019
+	* Collected submissions, assigned reviewers, requested edits, compiled and published proceedings
+	
+* Fall 2017: Editor of The Proceedings of the North East Linguistic Society (NELS 48)
+	* Created \LaTeX and Microsoft Word templates for submissions, collected sub-missions and requested edits, compiled and published proceedings
 
   
 Skills
