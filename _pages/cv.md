@@ -41,7 +41,7 @@ Work experience
 * Fall 2017: Editor of The Proceedings of the North East Linguistic Society
 	* Created LaTeX and Microsoft Word templates for submissions, collected submissions and requested edits, compiled and published proceedings
 
-*Summer 2016: LINGUIST List research intern
+* Summer 2016: LINGUIST List research intern
 	* MATLAB scripting to analyze ultrasound data, including generating and smoothing 3D/4D figures
 	* Prepared results for publication, see Lulich, Cavar, and Nelson (2017) in Publications
 
@@ -53,13 +53,13 @@ Work experience
   
 Skills
 ======
-### Programming/Scripting
+### Programming/Scripting:
 * Python (proficient)
 * R (familiar)
 * Java (familiar)
 * MATLAB (familiar)
 
-### Other
+### Other:
 * French
 * LaTeX
 * Praat (software)
