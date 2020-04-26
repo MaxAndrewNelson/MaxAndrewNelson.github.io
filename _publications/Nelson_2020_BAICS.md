@@ -5,7 +5,7 @@ permalink: /publication/Nelson_BAICS
 excerpt: 'Max Nelson'
 
 date: 2020-04-26
-venue: 'Bridging AI and Cognitive Science Workshop Papers at ICLR 2020'
+venue: 'Bridging AI and Cognitive Science Workshop Papers at ICLR'
 paperurl: 'http://maxandrewnelson.github.io/files/.pdf'
 ---
 Max Nelson
